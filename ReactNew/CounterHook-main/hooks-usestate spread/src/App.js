@@ -6,6 +6,7 @@ function App() {
 	const count = state.count;
 	const name = state.name;
 
+	// type a name in the inputfield and it will change in the text
 	const [firstName, setName] = useState('');
 	const handleChange = (e) => {
 		setName(e.target.value)
