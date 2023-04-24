@@ -5,7 +5,6 @@
 	position: sticky;
 	top: 0;
 	z-index: 100; /* So nothing will come above it, that's why 100 */
-
 }
 
 .header__logo {
