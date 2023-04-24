@@ -1,10 +1,10 @@
 import React from "react";
 import "./style/App.css";
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import Home from "./pages/home";
-import Login from "./pages/login";
-import Checkout from "./pages/checkout";
-import Header from "./components/Header/Header";
+import Home from "./components/Home";
+import Login from "./components/Login";
+import Checkout from "./components/Checkout";
+import Header from "./components/Header";
 
 function App() {
 	return (

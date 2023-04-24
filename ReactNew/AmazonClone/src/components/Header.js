@@ -65,5 +65,5 @@ export default Header;
 /*
 Difference between:
 a href = refreshes the page 
-Link = does not refresh the page
+Link = does not have to refresh the page, it goes automatically
 */
